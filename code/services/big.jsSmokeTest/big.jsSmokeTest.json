@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,big.js",
+    "logging_enabled": "false",
+    "name": "big.jsSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "big.jsSmokeTest.js"
+}
